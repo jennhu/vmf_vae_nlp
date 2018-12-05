@@ -1,0 +1,806 @@
+{
+    "cluster_path": "IARPA_200clusters.csv", 
+    "corpus_path": "../data/ptb.zip", 
+    "sample": {
+        "ability": {
+            "5": null, 
+            "10": null
+        }, 
+        "abruptness": {
+            "5": null, 
+            "10": null
+        }, 
+        "accomplished": {
+            "5": null, 
+            "10": null
+        }, 
+        "angry": {
+            "5": null, 
+            "10": null
+        }, 
+        "apartment": {
+            "5": null, 
+            "10": " walk around the room take two deep <unk> "
+        }, 
+        "applause": {
+            "5": null, 
+            "10": " the <unk> had a <unk> audience "
+        }, 
+        "argument": {
+            "5": null, 
+            "10": null
+        }, 
+        "argumentatively": {
+            "5": null, 
+            "10": null
+        }, 
+        "art": {
+            "5": null, 
+            "10": " thanks to modern medicine more couples are growing old together "
+        }, 
+        "attitude": {
+            "5": null, 
+            "10": " mr. spielvogel said he would n't launch a hostile bid "
+        }, 
+        "bag": {
+            "5": null, 
+            "10": null
+        }, 
+        "ball": {
+            "5": null, 
+            "10": " stocks were being thrown out of windows at any price "
+        }, 
+        "bar": {
+            "5": " opposed by new sec chairman ", 
+            "10": " the result is a new and huge appetite for programming "
+        }, 
+        "bear": {
+            "5": null, 
+            "10": null
+        }, 
+        "beat": {
+            "5": null, 
+            "10": null
+        }, 
+        "bed": {
+            "5": null, 
+            "10": " many of the affluent are n't comfortable with themselves either "
+        }, 
+        "beer": {
+            "5": null, 
+            "10": null
+        }, 
+        "being": {
+            "5": " N service should be service ", 
+            "10": " proceeds will be used to eliminate and restructure bank debt "
+        }, 
+        "big": {
+            "5": null, 
+            "10": " the result is a new and huge appetite for programming "
+        }, 
+        "bird": {
+            "5": null, 
+            "10": null
+        }, 
+        "blood": {
+            "5": null, 
+            "10": null
+        }, 
+        "body": {
+            "5": " the woman won the bet ", 
+            "10": null
+        }, 
+        "brain": {
+            "5": null, 
+            "10": null
+        }, 
+        "broken": {
+            "5": null, 
+            "10": null
+        }, 
+        "buddy": {
+            "5": null, 
+            "10": null
+        }, 
+        "building": {
+            "5": null, 
+            "10": " two share a house almost <unk> of furniture "
+        }, 
+        "burn": {
+            "5": null, 
+            "10": " the excess supply pushed gasoline prices down in that period "
+        }, 
+        "business": {
+            "5": " the company did n't elaborate ", 
+            "10": " proceeds will be used to eliminate and restructure bank debt "
+        }, 
+        "camera": {
+            "5": null, 
+            "10": " the most popular such shows focus on narrow national concerns "
+        }, 
+        "carefully": {
+            "5": null, 
+            "10": null
+        }, 
+        "challenge": {
+            "5": null, 
+            "10": " we wo n't put any burden on farmers he said "
+        }, 
+        "charity": {
+            "5": " youth only or all ages ", 
+            "10": " it would have severe implications for farmers ' policy holders "
+        }, 
+        "charming": {
+            "5": null, 
+            "10": null
+        }, 
+        "clothes": {
+            "5": null, 
+            "10": null
+        }, 
+        "cockroach": {
+            "5": null, 
+            "10": " proceeds will be used to eliminate and restructure bank debt "
+        }, 
+        "code": {
+            "5": " source fulton prebon u.s.a inc ", 
+            "10": " <unk> wants to change its viewers ' habits "
+        }, 
+        "collection": {
+            "5": null, 
+            "10": null
+        }, 
+        "complement": {
+            "5": null, 
+            "10": null
+        }, 
+        "computer": {
+            "5": null, 
+            "10": " it is what federal support should try hardest to achieve "
+        }, 
+        "construction": {
+            "5": null, 
+            "10": null
+        }, 
+        "cook": {
+            "5": null, 
+            "10": " aside from gm other car makers posted generally mixed results "
+        }, 
+        "counting": {
+            "5": " then a second explosion occurred ", 
+            "10": " three million shares of $ N preferred via competitive bidding "
+        }, 
+        "crazy": {
+            "5": null, 
+            "10": null
+        }, 
+        "damage": {
+            "5": null, 
+            "10": " friday 's big drop she says was not a crash "
+        }, 
+        "dance": {
+            "5": null, 
+            "10": null
+        }, 
+        "dangerous": {
+            "5": null, 
+            "10": null
+        }, 
+        "deceive": {
+            "5": null, 
+            "10": null
+        }, 
+        "dedication": {
+            "5": null, 
+            "10": null
+        }, 
+        "deliberately": {
+            "5": " opposed by new sec chairman ", 
+            "10": " commercial paper placed directly by general motors acceptance corp. "
+        }, 
+        "delivery": {
+            "5": " N service should be service ", 
+            "10": " negotiable bank-backed business credit instruments typically financing an import order "
+        }, 
+        "dessert": {
+            "5": null, 
+            "10": null
+        }, 
+        "device": {
+            "5": null, 
+            "10": null
+        }, 
+        "dig": {
+            "5": null, 
+            "10": " walk around the room take two deep <unk> "
+        }, 
+        "dinner": {
+            "5": null, 
+            "10": null
+        }, 
+        "disease": {
+            "5": null, 
+            "10": null
+        }, 
+        "dissolve": {
+            "5": null, 
+            "10": null
+        }, 
+        "disturb": {
+            "5": null, 
+            "10": " the <unk> provisions which affect mostly corporations would "
+        }, 
+        "do": {
+            "5": null, 
+            "10": " walk around the room take two deep <unk> "
+        }, 
+        "doctor": {
+            "5": " california health facilities financing authority ", 
+            "10": " university of medicine and <unk> of new jersey "
+        }, 
+        "dog": {
+            "5": null, 
+            "10": null
+        }, 
+        "dressing": {
+            "5": null, 
+            "10": null
+        }, 
+        "driver": {
+            "5": null, 
+            "10": " aside from gm other car makers posted generally mixed results "
+        }, 
+        "economy": {
+            "5": null, 
+            "10": " the short-term outlook for adobe 's business however appears strong "
+        }, 
+        "election": {
+            "5": null, 
+            "10": " the most popular such shows focus on narrow national concerns "
+        }, 
+        "electron": {
+            "5": null, 
+            "10": " still quantum has a crisis to get past right now "
+        }, 
+        "elegance": {
+            "5": null, 
+            "10": null
+        }, 
+        "emotion": {
+            "5": null, 
+            "10": null
+        }, 
+        "emotionally": {
+            "5": null, 
+            "10": " union officials have taken a beating politically as a result "
+        }, 
+        "engine": {
+            "5": null, 
+            "10": null
+        }, 
+        "event": {
+            "5": null, 
+            "10": " small wonder that britain 's labor party wants credit controls "
+        }, 
+        "experiment": {
+            "5": " the test may come today ", 
+            "10": " <unk> <unk> is based in amsterdam "
+        }, 
+        "extremely": {
+            "5": null, 
+            "10": " the most popular such shows focus on narrow national concerns "
+        }, 
+        "family": {
+            "5": null, 
+            "10": " as people get even older many become <unk> "
+        }, 
+        "feeling": {
+            "5": null, 
+            "10": null
+        }, 
+        "fight": {
+            "5": null, 
+            "10": null
+        }, 
+        "fish": {
+            "5": null, 
+            "10": null
+        }, 
+        "flow": {
+            "5": null, 
+            "10": null
+        }, 
+        "food": {
+            "5": null, 
+            "10": null
+        }, 
+        "garbage": {
+            "5": null, 
+            "10": " columbia savings is a major holder of so-called junk bonds "
+        }, 
+        "gent": {
+            "5": null, 
+            "10": null
+        }, 
+        "give": {
+            "5": null, 
+            "10": " still time 's move is being received well once again "
+        }, 
+        "gold": {
+            "5": null, 
+            "10": null
+        }, 
+        "good": {
+            "5": " there 's no turning back ", 
+            "10": " the networks and studios have <unk> ever since "
+        }, 
+        "great": {
+            "5": null, 
+            "10": null
+        }, 
+        "gun": {
+            "5": null, 
+            "10": " increases in nuclear regulatory commission fees totaling $ N million "
+        }, 
+        "hair": {
+            "5": null, 
+            "10": null
+        }, 
+        "help": {
+            "5": null, 
+            "10": null
+        }, 
+        "hurting": {
+            "5": null, 
+            "10": null
+        }, 
+        "ignorance": {
+            "5": null, 
+            "10": null
+        }, 
+        "illness": {
+            "5": null, 
+            "10": " why does the <unk> virus keep coming back "
+        }, 
+        "impress": {
+            "5": null, 
+            "10": " proceeds will be used to eliminate and restructure bank debt "
+        }, 
+        "invention": {
+            "5": null, 
+            "10": null
+        }, 
+        "investigation": {
+            "5": null, 
+            "10": " the charge on loans to brokers on stock exchange collateral "
+        }, 
+        "invisible": {
+            "5": null, 
+            "10": " two share a house almost <unk> of furniture "
+        }, 
+        "job": {
+            "5": " office construction dropped N N ", 
+            "10": null
+        }, 
+        "jungle": {
+            "5": null, 
+            "10": null
+        }, 
+        "kindness": {
+            "5": null, 
+            "10": null
+        }, 
+        "king": {
+            "5": null, 
+            "10": null
+        }, 
+        "lady": {
+            "5": null, 
+            "10": null
+        }, 
+        "land": {
+            "5": null, 
+            "10": null
+        }, 
+        "laugh": {
+            "5": null, 
+            "10": null
+        }, 
+        "law": {
+            "5": " california health facilities financing authority ", 
+            "10": " the university is considering a settlement proposal made by connaught "
+        }, 
+        "left": {
+            "5": " the main reason remains weather ", 
+            "10": null
+        }, 
+        "level": {
+            "5": " pennsylvania higher education facilities authority ", 
+            "10": " friday 's big drop she says was not a crash "
+        }, 
+        "liar": {
+            "5": " replied a justin salesman exactly ", 
+            "10": " the result is a new and huge appetite for programming "
+        }, 
+        "light": {
+            "5": null, 
+            "10": null
+        }, 
+        "lyric": {
+            "5": null, 
+            "10": null
+        }, 
+        "magic": {
+            "5": null, 
+            "10": null
+        }, 
+        "make": {
+            "5": null, 
+            "10": " where 's the guy who can say enough is enough "
+        }, 
+        "marriage": {
+            "5": " my advice is to buy ", 
+            "10": null
+        }, 
+        "material": {
+            "5": null, 
+            "10": " the university is considering a settlement proposal made by connaught "
+        }, 
+        "mathematical": {
+            "5": null, 
+            "10": null
+        }, 
+        "mechanism": {
+            "5": null, 
+            "10": " now the push is on for <unk> shows "
+        }, 
+        "medication": {
+            "5": null, 
+            "10": " compaq is already taking aim at zenith 's market share "
+        }, 
+        "mere": {
+            "5": null, 
+            "10": null
+        }, 
+        "money": {
+            "5": " employee benefit plans inc. ", 
+            "10": " negotiable bank-backed business credit instruments typically financing an import order "
+        }, 
+        "motion": {
+            "5": null, 
+            "10": " walk around the room take two deep <unk> "
+        }, 
+        "mountain": {
+            "5": null, 
+            "10": null
+        }, 
+        "movement": {
+            "5": " opposed by new sec chairman ", 
+            "10": null
+        }, 
+        "movie": {
+            "5": null, 
+            "10": null
+        }, 
+        "music": {
+            "5": null, 
+            "10": null
+        }, 
+        "nation": {
+            "5": " more elderly maintain their independence ", 
+            "10": " small wonder that britain 's labor party wants credit controls "
+        }, 
+        "news": {
+            "5": " in indianapolis lilly declined comment ", 
+            "10": " <unk> officials could n't be reached for comment "
+        }, 
+        "noise": {
+            "5": null, 
+            "10": null
+        }, 
+        "obligation": {
+            "5": " youth only or all ages ", 
+            "10": " stocks were being thrown out of windows at any price "
+        }, 
+        "pain": {
+            "5": null, 
+            "10": " the result is a new and huge appetite for programming "
+        }, 
+        "people": {
+            "5": null, 
+            "10": null
+        }, 
+        "personality": {
+            "5": null, 
+            "10": " they could still panic and bail out of the market "
+        }, 
+        "philosophy": {
+            "5": null, 
+            "10": null
+        }, 
+        "picture": {
+            "5": null, 
+            "10": " commercial paper placed directly by general motors acceptance corp. "
+        }, 
+        "pig": {
+            "5": null, 
+            "10": null
+        }, 
+        "plan": {
+            "5": null, 
+            "10": null
+        }, 
+        "plant": {
+            "5": null, 
+            "10": " thanks to modern medicine more couples are growing old together "
+        }, 
+        "play": {
+            "5": null, 
+            "10": " every moment we want to know everything about the world "
+        }, 
+        "pleasure": {
+            "5": null, 
+            "10": null
+        }, 
+        "poor": {
+            "5": null, 
+            "10": null
+        }, 
+        "prison": {
+            "5": null, 
+            "10": " they could still panic and bail out of the market "
+        }, 
+        "professional": {
+            "5": null, 
+            "10": null
+        }, 
+        "protection": {
+            "5": null, 
+            "10": " why does the <unk> virus keep coming back "
+        }, 
+        "quality": {
+            "5": " more elderly maintain their independence ", 
+            "10": null
+        }, 
+        "reaction": {
+            "5": null, 
+            "10": null
+        }, 
+        "read": {
+            "5": null, 
+            "10": " but most investors were seeking share prices and other information "
+        }, 
+        "reality": {
+            "5": null, 
+            "10": null
+        }, 
+        "relationship": {
+            "5": null, 
+            "10": " thanks to modern medicine more couples are growing old together "
+        }, 
+        "religious": {
+            "5": null, 
+            "10": null
+        }, 
+        "repeat": {
+            "5": null, 
+            "10": null
+        }, 
+        "residence": {
+            "5": " apparently their verdict is in ", 
+            "10": " he added we learned a lesson in N about volatility "
+        }, 
+        "road": {
+            "5": null, 
+            "10": null
+        }, 
+        "sad": {
+            "5": null, 
+            "10": " every moment we want to know everything about the world "
+        }, 
+        "say": {
+            "5": null, 
+            "10": " he added we learned a lesson in N about volatility "
+        }, 
+        "science": {
+            "5": null, 
+            "10": null
+        }, 
+        "seafood": {
+            "5": null, 
+            "10": null
+        }, 
+        "sell": {
+            "5": " my advice is to buy ", 
+            "10": " a few hours later the stock market dropped N points "
+        }, 
+        "sew": {
+            "5": " iowa is making a comeback ", 
+            "10": null
+        }, 
+        "sexy": {
+            "5": null, 
+            "10": null
+        }, 
+        "shape": {
+            "5": null, 
+            "10": " the most popular such shows focus on narrow national concerns "
+        }, 
+        "ship": {
+            "5": null, 
+            "10": null
+        }, 
+        "show": {
+            "5": null, 
+            "10": null
+        }, 
+        "sign": {
+            "5": null, 
+            "10": null
+        }, 
+        "silly": {
+            "5": null, 
+            "10": null
+        }, 
+        "sin": {
+            "5": null, 
+            "10": " indeed hungary is in the midst of a media explosion "
+        }, 
+        "sir": {
+            "5": null, 
+            "10": " on friday some market makers were selling again traders said "
+        }, 
+        "sit": {
+            "5": null, 
+            "10": null
+        }, 
+        "skin": {
+            "5": null, 
+            "10": null
+        }, 
+        "smart": {
+            "5": null, 
+            "10": null
+        }, 
+        "smiling": {
+            "5": null, 
+            "10": null
+        }, 
+        "solution": {
+            "5": null, 
+            "10": " the system worked the way we devised it to work "
+        }, 
+        "soul": {
+            "5": null, 
+            "10": null
+        }, 
+        "sound": {
+            "5": null, 
+            "10": null
+        }, 
+        "spoke": {
+            "5": null, 
+            "10": null
+        }, 
+        "star": {
+            "5": null, 
+            "10": " who is going to be in the space next door "
+        }, 
+        "student": {
+            "5": " pennsylvania higher education facilities authority ", 
+            "10": " he added we learned a lesson in N about volatility "
+        }, 
+        "stupid": {
+            "5": null, 
+            "10": null
+        }, 
+        "successful": {
+            "5": null, 
+            "10": " as people get even older many become <unk> "
+        }, 
+        "sugar": {
+            "5": null, 
+            "10": " aside from gm other car makers posted generally mixed results "
+        }, 
+        "suspect": {
+            "5": null, 
+            "10": null
+        }, 
+        "table": {
+            "5": null, 
+            "10": null
+        }, 
+        "taste": {
+            "5": null, 
+            "10": null
+        }, 
+        "team": {
+            "5": " the woman won the bet ", 
+            "10": " and mr. craig expects to pick up more shares today "
+        }, 
+        "texture": {
+            "5": null, 
+            "10": null
+        }, 
+        "time": {
+            "5": " the test may come today ", 
+            "10": " no one can say for sure what will happen today "
+        }, 
+        "tool": {
+            "5": null, 
+            "10": null
+        }, 
+        "toy": {
+            "5": null, 
+            "10": null
+        }, 
+        "tree": {
+            "5": null, 
+            "10": null
+        }, 
+        "trial": {
+            "5": null, 
+            "10": " many people now claim to have predicted the N crash "
+        }, 
+        "tried": {
+            "5": " then a second explosion occurred ", 
+            "10": " a few hours later the stock market dropped N points "
+        }, 
+        "typical": {
+            "5": null, 
+            "10": " aside from gm other car makers posted generally mixed results "
+        }, 
+        "ultimate": {
+            "5": null, 
+            "10": " where 's the guy who can say enough is enough "
+        }, 
+        "unaware": {
+            "5": null, 
+            "10": " negotiable bank-backed business credit instruments typically financing an import order "
+        }, 
+        "unofficial": {
+            "5": null, 
+            "10": null
+        }, 
+        "usable": {
+            "5": null, 
+            "10": null
+        }, 
+        "useless": {
+            "5": null, 
+            "10": null
+        }, 
+        "vacation": {
+            "5": null, 
+            "10": null
+        }, 
+        "war": {
+            "5": null, 
+            "10": " military service moreover could be a <unk> option "
+        }, 
+        "wash": {
+            "5": null, 
+            "10": null
+        }, 
+        "weak": {
+            "5": null, 
+            "10": null
+        }, 
+        "wear": {
+            "5": null, 
+            "10": null
+        }, 
+        "weather": {
+            "5": null, 
+            "10": null
+        }, 
+        "willingly": {
+            "5": null, 
+            "10": null
+        }, 
+        "word": {
+            "5": null, 
+            "10": " proceeds will be used to eliminate and restructure bank debt "
+        }
+    }
+}

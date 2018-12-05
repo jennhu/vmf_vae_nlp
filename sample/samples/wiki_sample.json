@@ -1,0 +1,606 @@
+{
+    "cluster_path": "IARPA_200clusters.csv",
+    "corpus_path": "../data/WestburyLab.Wikipedia.Corpus.txt.bz2",
+    "sample": {
+        "ability": {
+            "10": "Buses vary in capacity from 8 to 300 passengers."
+        },
+        "abruptness": {
+            "10": null
+        },
+        "accomplished": {
+            "10": "The author is traditionally identified as Luke the Evangelist."
+        },
+        "angry": {
+            "10": "The Japanese themselves knew it and delighted in it."
+        },
+        "apartment": {
+            "10": "What intractability means in practice is open to debate."
+        },
+        "applause": {
+            "10": "Pasternak had declined under intense pressure from Soviet authorities."
+        },
+        "argument": {
+            "10": "In point of fact, it is not so."
+        },
+        "argumentatively": {
+            "10": null
+        },
+        "art": {
+            "10": "The dates given are those of works concerning Altaic."
+        },
+        "attitude": {
+            "10": "Their behavior may become aggressive, intolerant or intrusive."
+        },
+        "bag": {
+            "10": "The pocket is called yojigen-pocket, or fourth-dimensional pocket."
+        },
+        "ball": {
+            "10": "The stoa leads off north-east from the main sanctuary."
+        },
+        "bar": {
+            "10": "It provides for and works with the local community."
+        },
+        "bear": {
+            "10": "Her owl is also a symbol of the fraternity."
+        },
+        "beat": {
+            "10": "At Calais there is of track with 44\u00a0turnouts."
+        },
+        "bed": {
+            "10": "She did, however, sleep in a coffin."
+        },
+        "beer": {
+            "10": "The hydroxyl group generally makes the alcohol molecule polar."
+        },
+        "being": {
+            "10": "Sick persons came to be cured through their prayers."
+        },
+        "big": {
+            "10": "since they ordinarily get included in the price calculation."
+        },
+        "bird": {
+            "10": "The stoa leads off north-east from the main sanctuary."
+        },
+        "blood": {
+            "10": "The humps are actually a reservoir of fatty tissue."
+        },
+        "body": {
+            "10": "None still accurately represents the Wall's original appearance."
+        },
+        "brain": {
+            "10": "Franklin became involved in Philadelphia politics and rapidly progressed."
+        },
+        "broken": {
+            "10": "From the early 16th century, Aachen lost power."
+        },
+        "buddy": {
+            "10": null
+        },
+        "building": {
+            "10": "Others suggest that they developed from other complex consonants."
+        },
+        "burn": {
+            "10": "Constantine soon distinguished himself as a fire ship captain."
+        },
+        "business": {
+            "10": "There are three other smaller financial districts in Amsterdam."
+        },
+        "camera": {
+            "10": "That request led to the creation of Sleepycat Software."
+        },
+        "carefully": {
+            "10": "As fully God, he rose to life again."
+        },
+        "challenge": {
+            "10": "This situation helps Abadeh to improve compared to Eqlid."
+        },
+        "charity": {
+            "10": "It provides for and works with the local community."
+        },
+        "charming": {
+            "10": "Anagrams in Latin were considered witty over many centuries."
+        },
+        "clothes": {
+            "10": "Beowulf and his men spend the night in Heorot."
+        },
+        "cockroach": {
+            "10": "All water or acid soluble barium compounds are poisonous."
+        },
+        "code": {
+            "10": "Identity change as a plot device and stylistic choice."
+        },
+        "collection": {
+            "10": "The collection sold 47,000 copies and garnered impressive reviews."
+        },
+        "complement": {
+            "10": null
+        },
+        "computer": {
+            "10": "The Internet is considered the largest network in the world.."
+        },
+        "construction": {
+            "10": "The fence moved as much as between series opponents."
+        },
+        "cook": {
+            "10": "The reaction produces heat, which keeps it going."
+        },
+        "counting": {
+            "10": "Their self-titled first album was released in August 1991."
+        },
+        "crazy": {
+            "10": "It was the start of a bloody civil war."
+        },
+        "damage": {
+            "10": "In addition to this, later king lists survive."
+        },
+        "dance": {
+            "10": "These participants usually perform Gatka on special Punjabi holidays."
+        },
+        "dangerous": {
+            "10": "The Internet is considered the largest network in the world.."
+        },
+        "deceive": {
+            "10": "In cladograms, all species lie at the leaves."
+        },
+        "dedication": {
+            "10": "Constant-volume calorimetry is calorimetry performed at a constant volume."
+        },
+        "deliberately": {
+            "10": "Both of these developments had occurred by 2000 BC."
+        },
+        "delivery": {
+            "10": "Thereupon, the Bishops voted to accept the summons."
+        },
+        "dessert": {
+            "10": "This later became known as the plum pudding model."
+        },
+        "device": {
+            "10": "Prussia was one country attempting to amass military power."
+        },
+        "dig": {
+            "10": "Agents later discovered a bomb planted under a bridge."
+        },
+        "dinner": {
+            "10": "The ancient Egyptians produced art to serve functional purposes."
+        },
+        "disease": {
+            "10": "Osmotic demyelination syndrome occurs with rapid correction of hyponatremia."
+        },
+        "dissolve": {
+            "10": "Tiwanaku continued to absorb cultures rather than eradicate them."
+        },
+        "disturb": {
+            "10": "However, Democrats still dominate every level of government."
+        },
+        "do": {
+            "10": "A few short words in Afrikaans take initial apostrophes."
+        },
+        "doctor": {
+            "10": "Strabismus surgery may improve the appearance of the eyes."
+        },
+        "dog": {
+            "10": "Gad, the companion of David (1 Sam."
+        },
+        "dressing": {
+            "10": "Seventy percent of my nutrients come from fresh air."
+        },
+        "driver": {
+            "10": "Ltd. is the country's largest cable TV operator."
+        },
+        "economy": {
+            "10": "Cambodia's emerging democracy has received strong international support."
+        },
+        "election": {
+            "10": "Franklin became involved in Philadelphia politics and rapidly progressed."
+        },
+        "electron": {
+            "10": "The effect also varies considerably from individual to individual."
+        },
+        "elegance": {
+            "10": "In a sense, then, cryptanalysis is dead."
+        },
+        "emotion": {
+            "10": "These express intent or desire, perhaps even pleading."
+        },
+        "emotionally": {
+            "10": "Absurdities develop logically from initial premises in a plot."
+        },
+        "engine": {
+            "10": "Another common sized drum kit is a fusion set."
+        },
+        "event": {
+            "10": "Conventional missiles are a special type of single-use unit."
+        },
+        "experiment": {
+            "10": "In a study by Tajima \"et al.\""
+        },
+        "extremely": {
+            "10": "Compared to amines, amides are very weak bases."
+        },
+        "family": {
+            "10": "Thus Aphrodite is of an older generation than Zeus."
+        },
+        "feeling": {
+            "10": "These philosophers were concerned mainly with ethics and religion."
+        },
+        "fight": {
+            "10": "This battle ended a long series of ineffectual operations."
+        },
+        "fish": {
+            "10": "Some also banned fishing for some time each year."
+        },
+        "flow": {
+            "10": "\"Heavy water\" experiments in World War II."
+        },
+        "food": {
+            "10": "Some are omnivores, eating both plants and animals."
+        },
+        "garbage": {
+            "10": "This \"dirty snowball\" model soon became accepted."
+        },
+        "gent": {
+            "10": "These episodes had additional cutback scenes summarising past episodes."
+        },
+        "give": {
+            "10": "The dates given are those of works concerning Altaic."
+        },
+        "gold": {
+            "10": "'set the text colour back To white For the rest"
+        },
+        "good": {
+            "10": "The dates given are those of works concerning Altaic."
+        },
+        "great": {
+            "10": "Well, it's great bubblegum for the eyes."
+        },
+        "gun": {
+            "10": "Manifesto\", a separatist feminist attack on patriarchy."
+        },
+        "hair": {
+            "10": "Women have been lay readers for a long time."
+        },
+        "help": {
+            "10": "This situation helps Abadeh to improve compared to Eqlid."
+        },
+        "hurting": {
+            "10": "The bow arm is held outwards toward the target."
+        },
+        "ignorance": {
+            "10": "Regional channels produce 25-40 percent of their own programming."
+        },
+        "illness": {
+            "10": "It is believed that this situation precipitated the epidemic."
+        },
+        "impress": {
+            "10": "The vehicles will be manufactured by CAF of Spain."
+        },
+        "invention": {
+            "10": "He was admitted a member of the Royal Society."
+        },
+        "investigation": {
+            "10": "He concludes the men are criminal associates of Frank."
+        },
+        "invisible": {
+            "10": "The highest notes are almost down at the bridge."
+        },
+        "job": {
+            "10": "DeMille also served as producer and/or director for many."
+        },
+        "jungle": {
+            "10": "These species undergo a variety of synthetically useful transformations."
+        },
+        "kindness": {
+            "10": "In this respect it resembles judo \"randori\"."
+        },
+        "king": {
+            "10": "Lasker brought in a wealthy partner, Charles Weeghman."
+        },
+        "lady": {
+            "10": "He dated actress Rosemary Forsyth for a few years."
+        },
+        "land": {
+            "10": "It arose in the Ganges region in Eastern India."
+        },
+        "laugh": {
+            "10": null
+        },
+        "law": {
+            "10": "Traditional Orthodox Christians forbid mixed marriages with other denominations."
+        },
+        "left": {
+            "10": "properties of the fundamental curve which remains unchanged under a"
+        },
+        "level": {
+            "10": "since they ordinarily get included in the price calculation."
+        },
+        "liar": {
+            "10": "Manifesto\", a separatist feminist attack on patriarchy."
+        },
+        "light": {
+            "10": "The color of the plumes varies according to rank."
+        },
+        "lyric": {
+            "10": "Their self-titled first album was released in August 1991."
+        },
+        "magic": {
+            "10": "That healing is a process realised in conjugal acts."
+        },
+        "make": {
+            "10": "He achieved this consolidation of Afghanistan in three ways."
+        },
+        "marriage": {
+            "10": "Young first married in 1824 to Miriam Angeline Works."
+        },
+        "material": {
+            "10": "Moreover, Doubleday himself never made such a claim."
+        },
+        "mathematical": {
+            "10": "Below is a recursive approach to the insertion method."
+        },
+        "mechanism": {
+            "10": "Almost all Christian denominations and Churches hold Trinitarian beliefs."
+        },
+        "medication": {
+            "10": "The vitamin B12 in algae is not biologically active."
+        },
+        "mere": {
+            "10": null
+        },
+        "money": {
+            "10": "Beowulf and his men spend the night in Heorot."
+        },
+        "motion": {
+            "10": "Sick persons came to be cured through their prayers."
+        },
+        "mountain": {
+            "10": "The modern Philcon convention claims descent from this event."
+        },
+        "movement": {
+            "10": "Cambodia's emerging democracy has received strong international support."
+        },
+        "movie": {
+            "10": "None still accurately represents the Wall's original appearance."
+        },
+        "music": {
+            "10": "The song \"Go, Cubs, Go!\""
+        },
+        "nation": {
+            "10": "The Bengal famine of 1770 claimed millions of lives."
+        },
+        "news": {
+            "10": "The most recent census in Latvia was in 2000."
+        },
+        "noise": {
+            "10": null
+        },
+        "obligation": {
+            "10": "properties of the fundamental curve which remains unchanged under a"
+        },
+        "pain": {
+            "10": "(which was ruled out as a cause)."
+        },
+        "people": {
+            "10": "In August 2009 the estimated resident population was 94,000."
+        },
+        "personality": {
+            "10": "And the seventh which is beyond the physical region."
+        },
+        "philosophy": {
+            "10": "Manifesto\", a separatist feminist attack on patriarchy."
+        },
+        "picture": {
+            "10": "Lincoln's name and image appear in numerous places."
+        },
+        "pig": {
+            "10": "Slaves and cattle formed the next most important item."
+        },
+        "plan": {
+            "10": "He had 40 or more complete games nine times."
+        },
+        "plant": {
+            "10": "Many legends have grown around the figure of David."
+        },
+        "play": {
+            "10": "At, Cameroon is the world's 53rd-largest country."
+        },
+        "pleasure": {
+            "10": "The Senate then deliberated upon the conspirators' punishment."
+        },
+        "poor": {
+            "10": "The more suffering, the larger her triumph was."
+        },
+        "prison": {
+            "10": "Benzoyl-CoA then combines the two units to form cocaine."
+        },
+        "professional": {
+            "10": "Gauss was an ardent perfectionist and a hard worker."
+        },
+        "protection": {
+            "10": "See List of Afghan security forces fatality reports in Afghanistan"
+        },
+        "quality": {
+            "10": "These robes are most often white, symbolizing purity."
+        },
+        "reaction": {
+            "10": "Cortisol stimulates degradation of amino acid from skin collagen."
+        },
+        "read": {
+            "10": "The history of Backgammon goes back approximately 5,000 years."
+        },
+        "reality": {
+            "10": "properties of the fundamental curve which remains unchanged under a"
+        },
+        "relationship": {
+            "10": "Lasker brought in a wealthy partner, Charles Weeghman."
+        },
+        "religious": {
+            "10": "Very little is known of the church under Alfred."
+        },
+        "repeat": {
+            "10": "Searching is similar to searching a binary search tree."
+        },
+        "residence": {
+            "10": "It arose in the Ganges region in Eastern India."
+        },
+        "road": {
+            "10": "Agents later discovered a bomb planted under a bridge."
+        },
+        "sad": {
+            "10": "Algeria had an important Jewish community until the 1960s."
+        },
+        "say": {
+            "10": "the harmonic mean of the near and far distances."
+        },
+        "science": {
+            "10": "Gauquelin's research has not received mainstream scientific notice."
+        },
+        "seafood": {
+            "10": "Seafood boils with crabs and shrimp are also popular."
+        },
+        "sell": {
+            "10": "The collection sold 47,000 copies and garnered impressive reviews."
+        },
+        "sew": {
+            "10": "Between 1771 and 1788, he finished his autobiography."
+        },
+        "sexy": {
+            "10": "The 747-400 is an improved model with increased range."
+        },
+        "shape": {
+            "10": "properties of the fundamental curve which remains unchanged under a"
+        },
+        "ship": {
+            "10": "The last scheduled flight departed on 30 September 1959."
+        },
+        "show": {
+            "10": "Tim Burton had mixed emotions from the previous film."
+        },
+        "sign": {
+            "10": "He therefore ordered the same official to stop music."
+        },
+        "silly": {
+            "10": "A third assumption is to focus on sun-like stars."
+        },
+        "sin": {
+            "10": "His name is not, therefore, an anglicization."
+        },
+        "sir": {
+            "10": "Congressman Lee H. Hamilton, former chairman of the House"
+        },
+        "sit": {
+            "10": "Charles fell in love with a Filipino woman overseas."
+        },
+        "skin": {
+            "10": "Antimony has been used for the treatment of schistosomiasis."
+        },
+        "smart": {
+            "10": "Below is a recursive approach to the insertion method."
+        },
+        "smiling": {
+            "10": "Von Meister quietly left the company in early 1985."
+        },
+        "solution": {
+            "10": "Identity change as a plot device and stylistic choice."
+        },
+        "soul": {
+            "10": "As fully God, he rose to life again."
+        },
+        "sound": {
+            "10": "The newly developed striking cue provided a new challenge."
+        },
+        "spoke": {
+            "10": "His disciple Proclus stated 'The One is God'."
+        },
+        "star": {
+            "10": "Also, the Bulgar calendar is a solar one."
+        },
+        "student": {
+            "10": "What intractability means in practice is open to debate."
+        },
+        "stupid": {
+            "10": "The telemetry stream at Mission Control was garbled nonsense."
+        },
+        "successful": {
+            "10": "Identity change as a plot device and stylistic choice."
+        },
+        "sugar": {
+            "10": "Traditional Orthodox Christians forbid mixed marriages with other denominations."
+        },
+        "suspect": {
+            "10": "Magneto attempts to kill Strucker but Xavier stops him."
+        },
+        "table": {
+            "10": "But from 403 BC they were set sharply apart."
+        },
+        "taste": {
+            "10": "Colby/Longhorn Cheddar cheese has a mild to medium flavour."
+        },
+        "team": {
+            "10": "Cheltenham is a hub for National Express coach services."
+        },
+        "texture": {
+            "10": "The interior of the home is covered in murals."
+        },
+        "time": {
+            "10": "They took their form shortly after World War II."
+        },
+        "tool": {
+            "10": "Subsequent offerings saw an escalation in the prices realized."
+        },
+        "toy": {
+            "10": "Very little is known of the church under Alfred."
+        },
+        "tree": {
+            "10": "However, dichromats often confuse red and green items."
+        },
+        "trial": {
+            "10": "Moreover, Doubleday himself never made such a claim."
+        },
+        "tried": {
+            "10": "Agents later discovered a bomb planted under a bridge."
+        },
+        "typical": {
+            "10": "All-female groups are less common, but still exist."
+        },
+        "ultimate": {
+            "10": "In other armies an 'authorised observer' (e.g."
+        },
+        "unaware": {
+            "10": "In 1978 Runrig recorded an album in Scottish Gaelic."
+        },
+        "unofficial": {
+            "10": null
+        },
+        "usable": {
+            "10": "This huge work was capable of holding 340,000 people."
+        },
+        "useless": {
+            "10": "Treatment is expensive; indirect costs are more so."
+        },
+        "vacation": {
+            "10": "BMW is known for its performance and luxury vehicles."
+        },
+        "war": {
+            "10": "Conventional missiles are a special type of single-use unit."
+        },
+        "wash": {
+            "10": "Economically, the sponge fisheries are of notable importance."
+        },
+        "weak": {
+            "10": "The latter somewhat akin to case in Indo-European languages."
+        },
+        "wear": {
+            "10": "The bow arm is held outwards toward the target."
+        },
+        "weather": {
+            "10": "The summer months in Bolivia are November through March."
+        },
+        "willingly": {
+            "10": "Every experiment involving an anemometer had to be repeated."
+        },
+        "word": {
+            "10": "His name is not, therefore, an anglicization."
+        }
+    }
+}

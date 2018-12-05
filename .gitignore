@@ -102,3 +102,8 @@ ENV/
 *.xml
 *.iml
 
+# Large files
+data/WestburyLab.Wikipedia.Corpus*
+
+# SLURM scripts
+*/sample_wiki.sh
