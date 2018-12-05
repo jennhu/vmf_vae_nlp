@@ -1,0 +1,1006 @@
+{
+    "cluster_path": "IARPA_200clusters.csv",
+    "corpus_path": "../data/WestburyLab.Wikipedia.Corpus.txt.bz2",
+    "sample": {
+        "ability": {
+            "4": "Perception and knowledge.",
+            "7": "Bolstering Soviet secret service and intelligence.",
+            "10": "These also fell through due to lack of funding."
+        },
+        "abruptness": {
+            "4": null,
+            "7": null,
+            "10": null
+        },
+        "accomplished": {
+            "4": "This author has subsequently",
+            "7": "Abdul-Jabbar is also a best-selling author.",
+            "10": "Should he pursue studies as a rhetor or philosopher?"
+        },
+        "angry": {
+            "4": null,
+            "7": "I was ashamed of my parents.",
+            "10": "Early clarinets covered the tone holes with felt pads."
+        },
+        "apartment": {
+            "4": "Cost of living.",
+            "7": "Also known as an overhead door.",
+            "10": "There are several other private colleges in the area."
+        },
+        "applause": {
+            "4": "Changes over time.",
+            "7": "collects additional access privileges over time.",
+            "10": "Anders described the craters that they were passing over."
+        },
+        "argument": {
+            "4": "Consequences of proof.",
+            "7": "This explanation covers a recursive method.",
+            "10": "For hydrogen, however, this is not true."
+        },
+        "argumentatively": {
+            "4": null,
+            "7": null,
+            "10": null
+        },
+        "art": {
+            "4": "Twentieth century design.",
+            "7": "Recent trends in Chinese historical scholarship.",
+            "10": "He oversaw the public works, temples and markets."
+        },
+        "attitude": {
+            "4": null,
+            "7": "My love has made me selfish.",
+            "10": "to abolish the regularized institution of aggressive coercion.\""
+        },
+        "bag": {
+            "4": "Fundamental storage technologies.",
+            "7": "Crevasses make travel over glaciers hazardous.",
+            "10": "The pocket is called yojigen-pocket, or fourth-dimensional pocket."
+        },
+        "ball": {
+            "4": "First legal pass.",
+            "7": "The show was an immediate hit.",
+            "10": "The stoa leads off north-east from the main sanctuary."
+        },
+        "bar": {
+            "4": "A new league.",
+            "7": "Occasionally a new preposition is coined.",
+            "10": "it thus became the supervisory body of local Inquisitions."
+        },
+        "bear": {
+            "4": "wild card berth.",
+            "7": "are optimal for breeding bald eagles.",
+            "10": "Her owl is also a symbol of the fraternity."
+        },
+        "beat": {
+            "4": "Big band rhythm.",
+            "7": "Importance of drum and bassline elements.",
+            "10": "He played additional lead guitar on the title track."
+        },
+        "bed": {
+            "4": null,
+            "7": "Arising from a chair becomes difficult.",
+            "10": "This necessitates the caver carrying sleeping and cooking equipment."
+        },
+        "beer": {
+            "4": "Food and drink.",
+            "7": "The thickened drink is called chuco.",
+            "10": "The hydroxyl group generally makes the alcohol molecule polar."
+        },
+        "being": {
+            "4": "A divided church.",
+            "7": "The strip is currently being reprinted.",
+            "10": "Sick persons came to be cured through their prayers."
+        },
+        "big": {
+            "4": "Possible large losses.",
+            "7": "This class was small and specialised.",
+            "10": "In many jurisdictions there are regulations for each type."
+        },
+        "bird": {
+            "4": "Food and feeding.",
+            "7": "Arable farming predominates over stock breeding.",
+            "10": "The stoa leads off north-east from the main sanctuary."
+        },
+        "blood": {
+            "4": "Coronary artery disease.",
+            "7": "muscle, bone or adipose tissue.",
+            "10": "Vaccines, blood and tissue products, and biotechnology."
+        },
+        "body": {
+            "4": "Character and appearance.",
+            "7": "high-capacity cable and microwave radio relay trunks",
+            "10": "social labour, the most complete development of man."
+        },
+        "brain": {
+            "4": "Contemporary human evolution.",
+            "7": "Roles in cell structure and locomotion.",
+            "10": "The linear density of the wire is not involved."
+        },
+        "broken": {
+            "4": "The missing diaries.",
+            "7": "This film was also eventually lost.",
+            "10": "These also fell through due to lack of funding."
+        },
+        "buddy": {
+            "4": null,
+            "7": null,
+            "10": null
+        },
+        "building": {
+            "4": "The complex plane.",
+            "7": "The major attraction is sail fishing.",
+            "10": "I know, because I built it myself!\""
+        },
+        "burn": {
+            "4": "Flexible fuel vehicles.",
+            "7": "Bring me my chariot of fire!",
+            "10": "Activated charcoal is a common component of gas masks."
+        },
+        "business": {
+            "4": "2008-2009 financial crisis.",
+            "7": "It was a real warhorse.\"",
+            "10": "The government is rapidly paying down its foreign debt."
+        },
+        "camera": {
+            "4": "In video games.",
+            "7": "It was like a laser beam.",
+            "10": "24-bit graphics cards and video cards were also available."
+        },
+        "carefully": {
+            "4": null,
+            "7": "Wood is laid on the altars.",
+            "10": "More precisely, for formula_124 and formula_125, it holds"
+        },
+        "challenge": {
+            "4": "Unbounded knapsack problem.",
+            "7": "Rules for finding the derivative ===.",
+            "10": "In the interior, the situation is very different."
+        },
+        "charity": {
+            "4": "Of a group.",
+            "7": "\"American\" in international law.",
+            "10": "social labour, the most complete development of man."
+        },
+        "charming": {
+            "4": null,
+            "7": "Players in bold are still active.",
+            "10": "There are also several less ambitious ground-based efforts underway."
+        },
+        "clothes": {
+            "4": "Symphonic black metal.",
+            "7": "are tales told by dead men.",
+            "10": "Most underground black metal artists have continued this style."
+        },
+        "cockroach": {
+            "4": null,
+            "7": "and eliminate the negative sign to obtain",
+            "10": "The boranes and similar gaseous compounds are quite poisonous."
+        },
+        "code": {
+            "4": "Unreleased add ons.",
+            "7": "Numerical analysis provides an important example.",
+            "10": "The current list is in alphabetical order after category."
+        },
+        "collection": {
+            "4": "Common collection themes.",
+            "7": "This is a relatively rare occurrence.",
+            "10": "the); the publisher selects the item number."
+        },
+        "complement": {
+            "4": null,
+            "7": null,
+            "10": null
+        },
+        "computer": {
+            "4": "Ownership and access.",
+            "7": "collects additional access privileges over time.",
+            "10": "\"codice_44\" is sometimes put into uninitialized memory."
+        },
+        "construction": {
+            "4": "The surrounding wall.",
+            "7": "Be silent as a stone!\"",
+            "10": "In the interior, the situation is very different."
+        },
+        "cook": {
+            "4": "Ingredients in cooking.",
+            "7": "reconverted into carbon dioxide and heat.",
+            "10": "This necessitates the caver carrying sleeping and cooking equipment."
+        },
+        "counting": {
+            "4": "The first months.",
+            "7": "Upgrading entire system to three-car trains.",
+            "10": "On average, a killer whale eats each day."
+        },
+        "crazy": {
+            "4": "Is evil good?",
+            "7": "Thus a vicious downward spiral commenced.",
+            "10": "It was the start of a bloody civil war."
+        },
+        "damage": {
+            "4": "Falling ice danger.",
+            "7": "Response to bioterrorism incident or threat.",
+            "10": "They can suffer from several types of retinal atrophy."
+        },
+        "dance": {
+            "4": "Right hand technique.",
+            "7": "Origin of the false document technique.",
+            "10": "The flip side of quantum suicide is quantum immortality."
+        },
+        "dangerous": {
+            "4": "Later flag acts.",
+            "7": "Some case examples can also be considered",
+            "10": "This was seen as distasteful and vulgar by many."
+        },
+        "deceive": {
+            "4": "to fake).",
+            "7": "Forgeries, fabrications and conspiracy theories.",
+            "10": "Some scientists describe this claim as a conspiracy theory."
+        },
+        "dedication": {
+            "4": "Reaction and pursuit.",
+            "7": "where formula_65 is the spring constant.",
+            "10": "Constant-volume calorimetry is calorimetry performed at a constant volume."
+        },
+        "deliberately": {
+            "4": "Hit by pitch.",
+            "7": "Art is politics by other means.",
+            "10": "These holidays are celebrated by various groups and individuals."
+        },
+        "delivery": {
+            "4": "wild card berth.",
+            "7": "There is no Island-specific television service.",
+            "10": "the); the publisher selects the item number."
+        },
+        "dessert": {
+            "4": "Falling ice danger.",
+            "7": "Other examples are potato and banana.",
+            "10": "The sport has even been modified for ice rinks."
+        },
+        "device": {
+            "4": "Generation and transmission.",
+            "7": "All have a common internal structure.",
+            "10": "The feedforward carries the signal from source to load."
+        },
+        "dig": {
+            "4": "History of discovery.",
+            "7": "Later, discovery of polycarbonate allowed.",
+            "10": "Agents later discovered a bomb planted under a bridge."
+        },
+        "dinner": {
+            "4": "Little pan rice.",
+            "7": "It is often eaten with rice.",
+            "10": "They may have used fire to cook their meat."
+        },
+        "disease": {
+            "4": "Causes of failure.",
+            "7": "He said it was cancer cells.",
+            "10": "Osmotic demyelination syndrome occurs with rapid correction of hyponatremia."
+        },
+        "dissolve": {
+            "4": null,
+            "7": null,
+            "10": "Still, many states retain selected common law crimes."
+        },
+        "disturb": {
+            "4": "Intent to destroy.",
+            "7": "How does it affect life?\"",
+            "10": "This rule is intended to prevent an undesired discharge."
+        },
+        "do": {
+            "4": "Double-Bills take over.",
+            "7": "Breaches of confidentiality take many forms.",
+            "10": "\"All these people accuse you and curse you..."
+        },
+        "doctor": {
+            "4": "Short-term health concerns.",
+            "7": "The trauma transforms his entire life.",
+            "10": "This includes the employment of protozoa and maggot therapy."
+        },
+        "dog": {
+            "4": "Virtual pet toy.",
+            "7": "Hypothetical companion star to the sun.",
+            "10": "The rest of the animal's coat is white."
+        },
+        "dressing": {
+            "4": null,
+            "7": "\"I asked for fresh air.",
+            "10": "These bacteria add a sour flavour to the beer."
+        },
+        "driver": {
+            "4": "Communications and transport.",
+            "7": "Even the car industry uses bicycles.",
+            "10": "There is a club car behind the leading locomotive."
+        },
+        "economy": {
+            "4": "2008-2009 financial crisis.",
+            "7": "India-Japan relations have always been strong.",
+            "10": "The current list is in alphabetical order after category."
+        },
+        "election": {
+            "4": "Cornish political parties.",
+            "7": "Art is politics by other means.",
+            "10": "The Chadian government has avoided official recognition of ethnicity."
+        },
+        "electron": {
+            "4": "Control of rotation.",
+            "7": "Minimizing the effect of accuracy problems.",
+            "10": "The effect also varies considerably from individual to individual."
+        },
+        "elegance": {
+            "4": "Authority and seriousness.",
+            "7": "It would make no sense\".",
+            "10": "The depth is accomplished by applying variable color shading."
+        },
+        "emotion": {
+            "4": "What a shame!",
+            "7": "fear) or positive (e.g.",
+            "10": "Terror is an acute and pronounced form of fear."
+        },
+        "emotionally": {
+            "4": "is sufficiently unsharp.",
+            "7": "Artificial sweeteners are also technically flavorants.",
+            "10": "Supporters praise his advancement of his socially conservative message."
+        },
+        "engine": {
+            "4": "Return of racing.",
+            "7": "The reverse process is called antidifferentiation.",
+            "10": "When swimming, the trunk makes an excellent snorkel."
+        },
+        "event": {
+            "4": "Rumoured present locations.",
+            "7": "They had a very happy marriage.",
+            "10": "There are, however, exceptions and special cases."
+        },
+        "experiment": {
+            "4": "Deep packet inspection.",
+            "7": "Numerical analysis provides an important example.",
+            "10": "This analysis has been championed by many feminist critics."
+        },
+        "extremely": {
+            "4": "In most cases,",
+            "7": "This excluded most of the population.",
+            "10": "Compared to amines, amides are very weak bases."
+        },
+        "family": {
+            "4": "Porting older software.",
+            "7": "onto his father's tombstone).",
+            "10": "He then justifies it later by mentioning his brother."
+        },
+        "feeling": {
+            "4": "Pressure sensitive adhesives.",
+            "7": "The second problem concerned saving progress.",
+            "10": "On the other hand, she was inordinately jealous."
+        },
+        "fight": {
+            "4": "Types of battle.",
+            "7": "Lavish lifestyle and final major battle.",
+            "10": "Most protective gear comprises personal armor of some type."
+        },
+        "fish": {
+            "4": "Mechanics of diving.",
+            "7": "Forestry, fishing, and mining.",
+            "10": "On average, a killer whale eats each day."
+        },
+        "flow": {
+            "4": "Air-sensitive vacuum distillation.",
+            "7": "An ultrarelativistic fluid has equation of state",
+            "10": "This rule is intended to prevent an undesired discharge."
+        },
+        "food": {
+            "4": "Nutrition and diet.",
+            "7": "He does enjoy a good meal.",
+            "10": "On average, a killer whale eats each day."
+        },
+        "garbage": {
+            "4": "Uncovered by dust\"",
+            "7": "It was hot, filthy work.",
+            "10": "This \"dirty snowball\" model soon became accepted."
+        },
+        "gent": {
+            "4": null,
+            "7": null,
+            "10": "These episodes had additional cutback scenes summarising past episodes."
+        },
+        "give": {
+            "4": "These are given by",
+            "7": "with the stress-energy tensor being given by",
+            "10": "What problems arise in the treatment we have given?"
+        },
+        "gold": {
+            "4": "the golden ratio.",
+            "7": "He had penetrating deep blue eyes.",
+            "10": "Crystals are often symmetrically intergrown to form crystal twins."
+        },
+        "good": {
+            "4": "Most are rotorcraft.",
+            "7": "Its members are not police officers.",
+            "10": "The district boundaries are coextensive with the city limits."
+        },
+        "great": {
+            "4": "Others experience hypersexuality.",
+            "7": "She was received with great joy.",
+            "10": "When swimming, the trunk makes an excellent snorkel."
+        },
+        "gun": {
+            "4": "Self-propelled anti-aircraft weapon.",
+            "7": "The unit and target of selection.",
+            "10": "Agents later discovered a bomb planted under a bridge."
+        },
+        "hair": {
+            "4": "Infinitely long games.",
+            "7": "They may be more than long.",
+            "10": "Women have been lay readers for a long time."
+        },
+        "help": {
+            "4": null,
+            "7": "They can also restore sex drive.",
+            "10": "calcium to transform the metamorphic rock into a granite."
+        },
+        "hurting": {
+            "4": "Belgian hip hop.",
+            "7": "muscle, bone or adipose tissue.",
+            "10": "Her arm should be fully extended overhead as well."
+        },
+        "ignorance": {
+            "4": "It was indifference.",
+            "7": "Each family worshiped its own ancestors.",
+            "10": "Regional channels produce 25-40 percent of their own programming."
+        },
+        "illness": {
+            "4": "carbon monoxide poisoning.",
+            "7": "His final illness prevented their completion.",
+            "10": "Some diseases such as influenza are contagious and infectious."
+        },
+        "impress": {
+            "4": "Customers will normally choose",
+            "7": "A typical data structure will look like",
+            "10": "After that it will gradually recede from the sun."
+        },
+        "invention": {
+            "4": "The opposing forces.",
+            "7": "Art is politics by other means.",
+            "10": "\"end is the node to sift up.\""
+        },
+        "investigation": {
+            "4": "I plead guilty.",
+            "7": "He was found guilty and executed.",
+            "10": "Restaurants often provide valet parking service free of charge."
+        },
+        "invisible": {
+            "4": "Guinea has almost.",
+            "7": "absolute magnitude against their color index.",
+            "10": "It is almost never used for this purpose today."
+        },
+        "job": {
+            "4": "Early acting career.",
+            "7": "The position of lampreys is ambiguous.",
+            "10": "Directors may also leave office by resignation or death."
+        },
+        "jungle": {
+            "4": "Classification and species.",
+            "7": "All the remaining species are Asian.",
+            "10": "These species undergo a variety of synthetically useful transformations."
+        },
+        "kindness": {
+            "4": "Thieves respect property.",
+            "7": "Learning knots demands practice and patience.",
+            "10": "He also enjoyed playing card games, particularly patience."
+        },
+        "king": {
+            "4": "Causes of establishment.",
+            "7": "Dance categories are not mutually exclusive.",
+            "10": "And this would cause many problems in the kingdom."
+        },
+        "lady": {
+            "4": null,
+            "7": "A goddess is a female deity.",
+            "10": "The bride was probably of about the same age."
+        },
+        "land": {
+            "4": "Free guard zone.",
+            "7": "Discourse on the nature of psychology.",
+            "10": "The island measures in land area and is uninhabited."
+        },
+        "laugh": {
+            "4": null,
+            "7": "A laughing stock or painful embarrassment.",
+            "10": "The ellipsis calls for a slight pause in speech."
+        },
+        "law": {
+            "4": "Jewish legal literature.",
+            "7": "The lower lateral limit is the anterior",
+            "10": "This rule is intended to prevent an undesired discharge."
+        },
+        "left": {
+            "4": "Few inhomogeneities remain.",
+            "7": "All the remaining species are Asian.",
+            "10": "properties of the fundamental curve which remains unchanged under a"
+        },
+        "level": {
+            "4": "Minimizing powder cost.",
+            "7": "The lower lateral limit is the anterior",
+            "10": "All-female groups are less common, but still exist."
+        },
+        "liar": {
+            "4": "Of a group.",
+            "7": "She is described as a mezzo-soprano.",
+            "10": "properties of the fundamental curve which remains unchanged under a"
+        },
+        "light": {
+            "4": "Early color photography.",
+            "7": "When this occurred is not clear.",
+            "10": "The color of the plumes varies according to rank."
+        },
+        "lyric": {
+            "4": "Source code release.",
+            "7": "There was a corresponding world tour.",
+            "10": "So why do humans live so long after reproduction?"
+        },
+        "magic": {
+            "4": "Forging and casting.",
+            "7": "Spiritual healing in the material world.",
+            "10": "That healing is a process realised in conjugal acts."
+        },
+        "make": {
+            "4": "Customers will normally choose",
+            "7": "Some case examples can also be considered",
+            "10": "Trees can be easily evaluated in a recursive manner."
+        },
+        "marriage": {
+            "4": "The advice worked.",
+            "7": "usually to the age of fifteen.",
+            "10": "The dating in the text is only an approximation."
+        },
+        "material": {
+            "4": "Maximian made co-emperor.",
+            "7": "The strip is currently being reprinted.",
+            "10": "As it progressed, the strip underwent stylistic changes."
+        },
+        "mathematical": {
+            "4": "Other rational numbers.",
+            "7": "Iterated expectation for discrete random variables.",
+            "10": "Even if the German sociologist considers that the \u201cex-post rational"
+        },
+        "mechanism": {
+            "4": "Attractive fixed points.",
+            "7": "The last equation can only hold if",
+            "10": "The linear density of the wire is not involved."
+        },
+        "medication": {
+            "4": "effects of actions.",
+            "7": "Players in bold are still active.",
+            "10": "They have terpenoid essential oils which never contain iridoids."
+        },
+        "mere": {
+            "4": "Tactics were rudimentary.",
+            "7": null,
+            "10": null
+        },
+        "money": {
+            "4": "Mutual benefit corporations===.",
+            "7": "Another large subfield is insurance mathematics.",
+            "10": "The government is rapidly paying down its foreign debt."
+        },
+        "motion": {
+            "4": "Some examples follow.",
+            "7": "The moving waters at their priestlike task",
+            "10": "These also fell through due to lack of funding."
+        },
+        "mountain": {
+            "4": "Transfer and descent.",
+            "7": "During peak spending times, e.g.",
+            "10": "An additional attraction of the mountain is rock climbing."
+        },
+        "movement": {
+            "4": "Negation of freedom.",
+            "7": "Suppression of economic democracy and self-management.",
+            "10": "Supporters praise his advancement of his socially conservative message."
+        },
+        "movie": {
+            "4": "Youth and character.",
+            "7": "isz pmsg; point to next character",
+            "10": "Evocations of time and its compelling mystery and absurdity."
+        },
+        "music": {
+            "4": "Modern jazz dance.",
+            "7": "Conditional compilation and varying length strings.",
+            "10": "He played additional lead guitar on the title track."
+        },
+        "nation": {
+            "4": "British colonial rule.",
+            "7": "Resisting the Soviet invasion and occupation.",
+            "10": "He wanted the invasion stopped right on the beaches."
+        },
+        "news": {
+            "4": "Other related items.",
+            "7": "Employment discrimination and other related controversies.",
+            "10": "This is highly related to a culture's cuisine."
+        },
+        "noise": {
+            "4": "I remember crying.",
+            "7": "Courting males will emit loud coughs.",
+            "10": "Females will call their young by whistling or bellowing."
+        },
+        "obligation": {
+            "4": "Topical or systemic.",
+            "7": "Nor heed my craft or art.",
+            "10": "properties of the fundamental curve which remains unchanged under a"
+        },
+        "pain": {
+            "4": "Inflation relief measures.",
+            "7": "These delayed signals can cause inaccuracy.",
+            "10": "And this would cause many problems in the kingdom."
+        },
+        "people": {
+            "4": "As cultural libel.",
+            "7": "This excluded most of the population.",
+            "10": "There is no podium as such at the race."
+        },
+        "personality": {
+            "4": "The physical sciences.",
+            "7": "Thought experiments and a-priori physical principles.",
+            "10": "As debate shifts, so do the mental models."
+        },
+        "philosophy": {
+            "4": "Esthetics and ethics.",
+            "7": "literally \"philosophical tales\").",
+            "10": "This analysis has been championed by many feminist critics."
+        },
+        "picture": {
+            "4": "History of ink.",
+            "7": "The portrait was wreathed in bay.",
+            "10": "Almost everything within the image has a symbolic aspect."
+        },
+        "pig": {
+            "4": null,
+            "7": "Many properties specialize in cattle rearing.",
+            "10": "Making a profit in horse breeding is often difficult."
+        },
+        "plan": {
+            "4": "with unit step.",
+            "7": "maintains bilateral relations include the following.",
+            "10": "During the following months, she became increasingly ill."
+        },
+        "plant": {
+            "4": "As a weed.",
+            "7": "Thousands starved before the first harvest.",
+            "10": "However a growing number of inhabitants are functionally illiterate."
+        },
+        "play": {
+            "4": "Second world war.",
+            "7": "Spiritual healing in the material world.",
+            "10": "When swimming, the trunk makes an excellent snorkel."
+        },
+        "pleasure": {
+            "4": "- female\".",
+            "7": "A goddess is a female deity.",
+            "10": "During this time the male develops swollen cloacal glands."
+        },
+        "poor": {
+            "4": "The young scholar.",
+            "7": "I told you I was ill.",
+            "10": "During the following months, she became increasingly ill."
+        },
+        "prison": {
+            "4": "Other drug use.",
+            "7": "Suspension bridges are suspended from cables.",
+            "10": "The wedges expanded, causing the rock to crack."
+        },
+        "professional": {
+            "4": "Education and profession.",
+            "7": "They have no priests by profession.",
+            "10": "Frances was a well-educated social worker and Spanish teacher."
+        },
+        "protection": {
+            "4": "Regulation and safety.",
+            "7": "Bounds checking can prevent buffer overflows.",
+            "10": "This rule is intended to prevent an undesired discharge."
+        },
+        "quality": {
+            "4": "Features and performance.",
+            "7": "Overall, macroeconomic performance was good.",
+            "10": "These robes are most often white, symbolizing purity."
+        },
+        "reaction": {
+            "4": "butyric acid).",
+            "7": "The deposition was not entirely legitimate.",
+            "10": "For hydrogen, however, this is not true."
+        },
+        "read": {
+            "4": "Politics and writing.",
+            "7": "The rail systems are listed below.",
+            "10": "Rowling has stated that she plans to continue writing."
+        },
+        "reality": {
+            "4": "Continuous binary relation.",
+            "7": "This relation is an equivalence relation.",
+            "10": "properties of the fundamental curve which remains unchanged under a"
+        },
+        "relationship": {
+            "4": "Distinguishing between particles.",
+            "7": "The deal rotates clockwise each hand.",
+            "10": "Pairs of electrons located between atoms represent covalent bonds."
+        },
+        "religious": {
+            "4": "Symbolism and ritual.",
+            "7": "I have hope and tremendous faith.",
+            "10": "There is a chapel and heliport in adjacent buildings."
+        },
+        "repeat": {
+            "4": null,
+            "7": null,
+            "10": "Deletion requires searching the list and removing the element."
+        },
+        "residence": {
+            "4": "Ingredients in cooking.",
+            "7": "isz pmsg; point to next character",
+            "10": "The district boundaries are coextensive with the city limits."
+        },
+        "road": {
+            "4": "Television broadcast station.",
+            "7": "taxi drivers and street vendors).",
+            "10": "Agents later discovered a bomb planted under a bridge."
+        },
+        "sad": {
+            "4": "Other unusual spellings.",
+            "7": "Numerical analysis provides an important example.",
+            "10": "An important aspect of interface design is icon design."
+        },
+        "say": {
+            "4": "Generalized mean inequality.",
+            "7": "She didn\u2019t want to endorse it.",
+            "10": "the harmonic mean of the near and far distances."
+        },
+        "science": {
+            "4": "Medical genetics research.",
+            "7": "Discourse on the nature of psychology.",
+            "10": "differential equations was a subject of research from the time"
+        },
+        "seafood": {
+            "4": "Fish and seafood.",
+            "7": "Fresh fish and seafood are common.",
+            "10": "tweeds, herring, processed shellfish, beef, lamb"
+        },
+        "sell": {
+            "4": "Statistics and equipment.",
+            "7": "Sand is cheap and easily available.",
+            "10": "to store index bounds, but this is language-dependent."
+        },
+        "sew": {
+            "4": "Environmental policy making.",
+            "7": "Nor heed my craft or art.",
+            "10": "These basic principles are explained in more detail below."
+        },
+        "sexy": {
+            "4": "Derived linear model.",
+            "7": "It was hot, filthy work.",
+            "10": "The simple model commonly used is the Earnings ratio."
+        },
+        "shape": {
+            "4": "Distance and angle.",
+            "7": "For example, the curve defined by",
+            "10": "properties of the fundamental curve which remains unchanged under a"
+        },
+        "ship": {
+            "4": "The complex plane.",
+            "7": "The major attraction is sail fishing.",
+            "10": "The rest of the crew is awakened soon after."
+        },
+        "show": {
+            "4": "Speech and drama.",
+            "7": "There is no Island-specific television service.",
+            "10": "This film features scenes shown in his previous films."
+        },
+        "sign": {
+            "4": "Location and identification.",
+            "7": "Crystallography is useful in phase identification.",
+            "10": "He therefore ordered the same official to stop music."
+        },
+        "silly": {
+            "4": "The Batavian myth.",
+            "7": "You are therefore greatly mistaken.\"",
+            "10": "He has been oddly and persistently mistaken for others."
+        },
+        "sin": {
+            "4": "He thus writes that",
+            "7": "You are therefore greatly mistaken.\"",
+            "10": "His name is not, therefore, an anglicization."
+        },
+        "sir": {
+            "4": "Living former governors.",
+            "7": "He said it was cancer cells.",
+            "10": "The poisoner was said to be the eunuch Pterygeonites."
+        },
+        "sit": {
+            "4": "Diocletian progressed slowly.",
+            "7": "Both graves are still standing today.",
+            "10": "These also fell through due to lack of funding."
+        },
+        "skin": {
+            "4": "Compressed natural gas.",
+            "7": "Adaptations are produced by natural selection.",
+            "10": "Dizziness and bruising will sometimes result from acupuncture treatment."
+        },
+        "smart": {
+            "4": "The rationalist approach.",
+            "7": "fear) or positive (e.g.",
+            "10": "Trees can be easily evaluated in a recursive manner."
+        },
+        "smiling": {
+            "4": null,
+            "7": null,
+            "10": "He sits facing the viewer and staring straight out."
+        },
+        "solution": {
+            "4": "They were effective.",
+            "7": "Crystallography is useful in phase identification.",
+            "10": "These species undergo a variety of synthetically useful transformations."
+        },
+        "soul": {
+            "4": "Major life activities.",
+            "7": "How does it affect life?\"",
+            "10": "\"Are always striving for glory and fame!\""
+        },
+        "sound": {
+            "4": "Hit by pitch.",
+            "7": "high-capacity cable and microwave radio relay trunks",
+            "10": "Essentially electronic, the piece still exhibits orchestral techniques."
+        },
+        "spoke": {
+            "4": "He stated that,",
+            "7": "Obituaries stated he died of cancer.",
+            "10": "Rowling has stated that she plans to continue writing."
+        },
+        "star": {
+            "4": "of the space.",
+            "7": "pudgala that pervade the entire universe.",
+            "10": "data would be to share their entire memory space."
+        },
+        "student": {
+            "4": "Influence on education.",
+            "7": "This class was small and specialised.",
+            "10": "Basic training is a mixed aerobic and anaerobic workout."
+        },
+        "stupid": {
+            "4": null,
+            "7": "prove that a hero equals any jerk",
+            "10": "(\"That I should lose to this idiot!"
+        },
+        "successful": {
+            "4": "Effect and legacy.",
+            "7": "She is described as a mezzo-soprano.",
+            "10": "Standard-sized cellos are referred to as \"full-size\"."
+        },
+        "sugar": {
+            "4": "Minimizing powder cost.",
+            "7": "Even penguins were exploited for oil.",
+            "10": "Basic training is a mixed aerobic and anaerobic workout."
+        },
+        "suspect": {
+            "4": "Deprogramming and violence.",
+            "7": "Its members are not police officers.",
+            "10": "On average, a killer whale eats each day."
+        },
+        "table": {
+            "4": "Some stand today.",
+            "7": "A hall for himself hath set;",
+            "10": "For a set with \"n\" elements there are"
+        },
+        "taste": {
+            "4": "How sweet the sound",
+            "7": "Many of them have touch screens.",
+            "10": "The evidence for most of these claims is slight."
+        },
+        "team": {
+            "4": "Education and career.",
+            "7": "Tactics on the field changed too.",
+            "10": "He played additional lead guitar on the title track."
+        },
+        "texture": {
+            "4": null,
+            "7": "The pullback of a smooth map.",
+            "10": "The interior of the home is covered in murals."
+        },
+        "time": {
+            "4": "Polar night jet.",
+            "7": "isz pmsg; point to next character",
+            "10": "The current list is in alphabetical order after category."
+        },
+        "tool": {
+            "4": "Right hand technique.",
+            "7": "The deal rotates clockwise each hand.",
+            "10": "Byers initially claimed the knife had never been used."
+        },
+        "toy": {
+            "4": "The dot product.",
+            "7": "Small islands dot the continental rims.",
+            "10": "However lately Egyptian-American relations have become a little tense."
+        },
+        "tree": {
+            "4": "Swabian senior branch.",
+            "7": "Eventually a root cracked the shell.",
+            "10": "Today, hydroponics is an established branch of agronomy."
+        },
+        "trial": {
+            "4": "Constitutional legal case.",
+            "7": "Some case examples can also be considered",
+            "10": "However the jury was unable to reach a verdict."
+        },
+        "tried": {
+            "4": "They later divorced.",
+            "7": "The momentum equation then further simplifies to",
+            "10": "Agents later discovered a bomb planted under a bridge."
+        },
+        "typical": {
+            "4": "In other media.",
+            "7": "The multiplication sign is usually omitted.",
+            "10": "All-female groups are less common, but still exist."
+        },
+        "ultimate": {
+            "4": "'s fellow straights.",
+            "7": "And they said, \"This fellow",
+            "10": "Only the aspiration is significant to the Chinese listener."
+        },
+        "unaware": {
+            "4": "As an entertainer.",
+            "7": "Numerical analysis provides an important example.",
+            "10": "His name is not, therefore, an anglicization."
+        },
+        "unofficial": {
+            "4": null,
+            "7": null,
+            "10": null
+        },
+        "usable": {
+            "4": null,
+            "7": "Sand is cheap and easily available.",
+            "10": "Trees can be easily evaluated in a recursive manner."
+        },
+        "useless": {
+            "4": "It was painful.",
+            "7": "The moving waters at their priestlike task",
+            "10": "The interrogators believed the waterboarding was \"unnecessary.\""
+        },
+        "vacation": {
+            "4": "Integrated development environment.",
+            "7": "He does enjoy a good meal.",
+            "10": "Objects and radiation can escape normally from the ergosphere."
+        },
+        "war": {
+            "4": "with unit step.",
+            "7": "while its military expenditure ranked sixth.",
+            "10": "(formula_6 is the imaginary unit, formula_7.)"
+        },
+        "wash": {
+            "4": null,
+            "7": "tap water is not potable; desertification",
+            "10": "At room temperature it slowly tarnishes in dry air."
+        },
+        "weak": {
+            "4": null,
+            "7": "This awkward period was fairly short-lived.",
+            "10": "rural, somewhat older, and less affluent)."
+        },
+        "wear": {
+            "4": "Image and fashion.",
+            "7": "Nobody from the fashion world attended.",
+            "10": "There are no formal tests to diagnose erectile dysfunction."
+        },
+        "weather": {
+            "4": "Instrumental temperature record.",
+            "7": "Most rain falls during the summer.",
+            "10": "The rain which does fall in summer is convectional."
+        },
+        "willingly": {
+            "4": "Many repeated letters.",
+            "7": "while its military expenditure ranked sixth.",
+            "10": "And so it went away for a while.\""
+        },
+        "word": {
+            "4": "Other drug use.",
+            "7": "Another translation is \"Wisdom-Being.\"",
+            "10": "His name is not, therefore, an anglicization."
+        }
+    }
+}

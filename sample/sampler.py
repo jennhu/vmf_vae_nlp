@@ -32,10 +32,10 @@ class Sampler():
         is a list of 20 related words.
         '''
         import pandas as pd
-        df = pd.read_csv(self.cluster_path, skipfooter=1, engine='python',
+        df = pd.read_csv(self.cluster_path,
                          usecols=['target word', '20 related words'])
         cluster_dict = df.set_index('target word').T.to_dict('records')[0]
-        cluster_dict = {t : w.split(' ')  for t,w in cluster_dict.iteritems()}
+        cluster_dict = {t : w.split(' ')  for t,w in cluster_dict.items()}
         self.clusters = cluster_dict
 
     def read_corpus(self):
@@ -89,18 +89,20 @@ class Sampler():
         sentences = self.read_corpus()
 
         print('Tokenizing...')
-        self.tokens = {
+        self.token_dict = {
             s : word_tokenize(s) for s in sentences
         }
+
+        print('Getting sentences of length {}...'.format(self.n_words))
         # get sentences of specified length (number of NLTK tokens)
         self.sentences_n = {
-            n : [s for s,ts in self.tokens.iteritems() if len(ts) == n]
-                for n in self.n_words
+            n : sentences_of_length_n(n, self.token_dict) for n in self.n_words
         }
 
         print('Generating sample...')
         sample = {
-            t : {n : self.pick_sentence(t, n, self.strict_stop) for n in self.n_words}
+            t : {n : self.pick_sentence(t, n, self.strict_stop)
+                     for n in self.n_words}
                 for t in self.clusters.keys()
         }
         return sample

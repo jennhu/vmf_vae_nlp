@@ -14,7 +14,4 @@ if __name__ == '__main__':
     s = Sampler(**vars(args))
 
     sample = s.get_sample()
-    print(sample['food'])
-    print(sample['money'])
-    print(sample['charming'])
     s.write_sample(sample)
