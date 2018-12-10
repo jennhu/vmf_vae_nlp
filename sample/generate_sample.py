@@ -10,7 +10,6 @@ if __name__ == '__main__':
     parser.add_argument('--sample_path', type=str, default='samples/sample_data.json')
     args = parser.parse_args()
 
-    # NOTE: yelp corpus not supported yet
     s = Sampler(**vars(args))
 
     sample = s.get_sample()

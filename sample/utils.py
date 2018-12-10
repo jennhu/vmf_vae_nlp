@@ -24,7 +24,7 @@ def read_from_archive(path_to_archive, file_to_read=None):
     elif archive_type == 'bz2':
         import bz2
         bz_file = bz2.BZ2File(path_to_archive)
-        data = bz_file.readlines() # 100000000
+        data = bz_file.readlines(100000000)
     else:
         raise NameError('Only .zip, .tar, and .bz2 formats supported')
     return data
@@ -46,8 +46,16 @@ import nltk
 def not_proper(pos):
     return pos not in ['NNP', 'NNPS', 'FW', 'CD']
 
-def word_tokenize(s):
-    return nltk.word_tokenize(s.decode('utf8'))
+def not_punct(t):
+    return t not in [',', '.', '?', '!', '\"', '\'', '\n']
+
+def word_tokenize(s, remove_punct=True):
+    tokens = nltk.word_tokenize(s.decode('utf8'))
+    if remove_punct:
+        new_tokens = [t for t in tokens if not_punct(t)]
+        return new_tokens
+    else:
+        return tokens
 
 def sent_tokenize(t):
     sent_detector = nltk.data.load('tokenizers/punkt/english.pickle')
@@ -64,8 +72,8 @@ def texts_to_sentences(texts):
     sentences = flatten(sentences)
     return sentences
 
-def sentences_of_length_n(n, tokens_dict):
-    sentences_n = [s for s, tokens in tokens_dict.items()
+def sentences_of_length_n(n, token_dict):
+    sentences_n = [s for s, tokens in token_dict.items()
                      if len(tokens) == n and
                         all([not_proper(pos) for token, pos
                                              in nltk.pos_tag(tokens)])]

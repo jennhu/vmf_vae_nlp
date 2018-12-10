@@ -89,14 +89,14 @@ class Sampler():
         sentences = self.read_corpus()
 
         print('Tokenizing...')
-        self.token_dict = {
+        self.tokens = {
             s : word_tokenize(s) for s in sentences
         }
 
         print('Getting sentences of length {}...'.format(self.n_words))
         # get sentences of specified length (number of NLTK tokens)
         self.sentences_n = {
-            n : sentences_of_length_n(n, self.token_dict) for n in self.n_words
+            n : sentences_of_length_n(n, self.tokens) for n in self.n_words
         }
 
         print('Generating sample...')
